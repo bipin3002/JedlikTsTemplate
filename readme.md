@@ -2,7 +2,7 @@
 
 ## Heroku teszt:
 https://jedlik-ts-template.herokuapp.com/ (Deploy menete: Deploy_on_Heroku.pdf)
-
+Hi... I am Bipin
 ## A.  Fejlesztői környezet telepítése, beállítása
 1.  Node.js letöltése, telepítése:<br>
     https://nodejs.org/en/download/
